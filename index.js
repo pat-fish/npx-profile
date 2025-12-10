@@ -30,7 +30,7 @@ clear();
 
 const data = {
     name: chalk.bold.hex('#ADA7C9')("@pfish"),
-    github: chalk.hex('#787878')("https://github.com/PatrickFish-8"),
+    github: chalk.hex('#787878')("https://github.com/pat-fish"),
     npx: chalk.hex('#787878')("npx pfish"),
     email: chalk.hex('#787878')("patrickfish10@icloud.com"),
 
